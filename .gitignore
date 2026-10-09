@@ -1,0 +1,12 @@
+# EPUB files (including personal test files)
+*.epub
+*.EPUB
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary and backup files
+*.tmp
+*.bak
+*~
