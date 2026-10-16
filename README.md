@@ -38,7 +38,7 @@ BBB
 ## 使用方法
 
 1. 从 AO3 下载作品的 EPUB 文件。
-2. 打开本工具的网[AO3-EPUB-Linebreak-Fixer](https://januaryspin.github.io/AO3-EPUB-Linebreak-Fixer/)，或者下载 `index.html` 后使用浏览器打开。
+2. 打开本工具的网页[AO3-EPUB-Linebreak-Fixer](https://januaryspin.github.io/AO3-EPUB-Linebreak-Fixer/)，或者下载 `index.html` 后使用浏览器打开。
 3. 选择或拖入需要处理的 EPUB 文件。
 4. 点击「转换并下载」。
 5. 将生成的 EPUB 文件导入微信读书。
